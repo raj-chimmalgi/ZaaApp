@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.438
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zaa.Services", "Zaa.Services\Zaa.Services.csproj", "{32B0D9C1-1D9E-4FD2-85D9-680B27FA0C3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32B0D9C1-1D9E-4FD2-85D9-680B27FA0C3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32B0D9C1-1D9E-4FD2-85D9-680B27FA0C3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32B0D9C1-1D9E-4FD2-85D9-680B27FA0C3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32B0D9C1-1D9E-4FD2-85D9-680B27FA0C3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A6A850D-9414-489C-8D6C-B9AB3386D715}
+	EndGlobalSection
+EndGlobal
